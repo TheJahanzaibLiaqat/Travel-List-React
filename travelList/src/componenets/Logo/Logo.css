@@ -1,0 +1,21 @@
+
+
+.header{
+   background-color: yellow;
+   font-family: "Indie Flower", cursive;
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  padding: 20px 0px;
+}
+
+.header h1 {
+    font-size: 50px;
+}
+
+@media only screen and (max-width: 428px){
+  .header h1 {
+    font-size: 35px;
+}
+
+}
